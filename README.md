@@ -1,3 +1,3 @@
-# Basic C Projects:
+# C Projects:
 - Password Cracker using dictionary attacks
 
